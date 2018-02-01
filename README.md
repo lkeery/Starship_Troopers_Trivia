@@ -1,1 +1,4 @@
-# keery_MMED1005_hw3
+# Starship Troopers Web-Based-Game
+An HTML 5 Game using JS as the engine based on the movie Starship Troopers
+
+Enjoy!
