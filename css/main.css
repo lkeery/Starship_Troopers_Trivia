@@ -1,0 +1,10 @@
+.hidden {
+  display: none;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+  background-color: black;
+}
