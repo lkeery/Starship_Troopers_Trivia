@@ -1,10 +1,125 @@
+@charset "UTF-8";
+/* CSS Document */
+
 .hidden {
-  display: none;
+	display: none;
+}
+
+.clearfix:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+@font-face {
+	font-family: 'Aero';
+	src: url('../includes/Aero.ttf');
+}
+
+@font-face {
+	font-family: 'Moon';
+	src: url('../includes/Moon_Get.ttf');
 }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  color: #fff;
-  background-color: black;
+	background: url('../images/background.gif');
+}
+
+#topBar {
+	height: 50px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.blue_button {
+	background-color: #004693;
+	width: 100px;
+	height: 20px;
+	padding: 12px;
+	margin-right: 20px;
+	margin-top: 25px;
+	color: white;
+	float: right;
+	text-align: center;
+	text-decoration: none;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	font-family: 'Aero';
+}
+
+.blue_button:hover {
+	background-color: #006ed1;
+}
+
+#begin {
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+
+#begin img {
+	margin: 0 auto;
+	display: block;
+}
+
+#begin h1 {
+	text-transform: uppercase;
+	color: #004693;
+	font-size: 25px;
+	font-family: 'Moon';
+	text-align: center;
+	-webkit-text-stroke: 1px #fff;
+}
+
+.start {
+	background-color: #004693;
+	padding: 12px;
+	color: white;
+	width: 300px;
+	height: 40px;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	font-family: 'Aero';
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	-webkit-animation-name: changeColor;
+	 -webkit-animation-duration: 1s;
+	 animation-name: changeColor;
+	 animation-duration: 1s;
+	 animation-iteration-count: infinite;
+	 animation-direction: alternate;
+}
+
+@-webkit-keyframes changeColor {
+    from {background-color: #004693;}
+    to {background-color: #43a6ff;}
+}
+
+@keyframes changeColor {
+    from {background-color: #004693;}
+    to {background-color: #43a6ff;}
+}
+
+.start:hover {
+	width: 320px;
+}
+
+footer {
+	clear: both;
+	height: 50px;
+	margin-top: 50px;
+}
+
+footer p {
+	color: white;
+	text-align: center;
+	font-family: 'Moon';
+	font-size: 10px;
 }

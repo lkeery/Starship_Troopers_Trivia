@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 634.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #004693;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #004693;
+        stroke-miterlimit: 10;
+        stroke-width: 70px;
+      }
+
+      .cls-3 {
+        font-size: 57px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+        font-family: Aero, Aero;
+      }
+
+      .cls-4 {
+        font-size: 61px;
+      }
+
+      .cls-5 {
+        font-size: 72.85px;
+      }
+    </style>
+  </defs>
+  <title>starshipLogo</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <path class="cls-1" d="M738.6,188H671.23v18H643.16l-11.22,39.3,33.68,4.49v34.8S578.05,270,547.73,261L532,305.89l29.2,16.84v50.52l19.08,4.49,14-43.23,18,4.5v46l18,6.73,18-41.54,20.21,5.62L681.9,470.36l-15.72,11.23v18l19.09,11.23V526.5h40.41V510.78l19.09-12.35v-18l-15.72-11.23,14.6-114.52,19.08-4.49,15.72,40.42L797.54,385V339l19.08-5.62,14.6,43.79,19.09-4.49L851.43,321l29.19-14.59-18-46s-52.77,12.35-113.4,20.2Z" transform="translate(-427 -77)"/>
+    <circle class="cls-2" cx="280" cy="280" r="245"/>
+    <text class="cls-3" transform="translate(66.26 218.21) rotate(-69.25)">S</text>
+    <text class="cls-3" transform="matrix(0.5, -0.86, 0.86, 0.5, 79.69, 182.83)">T</text>
+    <text class="cls-3" transform="translate(96.84 152.81) rotate(-50.5)">A</text>
+    <text class="cls-3" transform="matrix(0.76, -0.65, 0.65, 0.76, 120.78, 123.56)">R</text>
+    <text class="cls-3" transform="translate(149.31 98.76) rotate(-31.07)">S</text>
+    <text class="cls-3" transform="translate(181.59 79.15) rotate(-21.29)">H</text>
+    <text class="cls-3" transform="translate(217.34 65.85) rotate(-14.13)">I</text>
+    <text class="cls-3" transform="translate(233.49 61.03) rotate(-6.98)">P</text>
+    <text class="cls-3" transform="matrix(1, -0.01, 0.01, 1, 271.57, 57.09)"> </text>
+    <text class="cls-3" transform="translate(281.66 56.28) rotate(4.98)">T</text>
+    <text class="cls-3" transform="matrix(0.97, 0.25, -0.25, 0.97, 316.11, 59.02)">R</text>
+    <text class="cls-3" transform="translate(352.74 68.24) rotate(24.16)">O</text>
+    <text class="cls-3" transform="matrix(0.83, 0.56, -0.56, 0.83, 387.28, 83.6)">O</text>
+    <text class="cls-3" transform="translate(418.7 104.6) rotate(43.68)">P</text>
+    <text class="cls-3" transform="matrix(0.61, 0.79, -0.79, 0.61, 445.99, 130.9)">E</text>
+    <text class="cls-3" transform="translate(464.92 154.88) rotate(61.29)">R</text>
+    <text class="cls-3" transform="matrix(0.32, 0.95, -0.95, 0.32, 483.19, 187.97)">S</text>
+    <text class="cls-3" transform="translate(494.9 224.39) rotate(77.39)"> </text>
+    <text class="cls-4" transform="matrix(0.75, 0.66, -0.66, 0.75, 90.55, 468.3)">M</text>
+    <text class="cls-4" transform="translate(132.17 503.34) rotate(29.73)">O</text>
+    <text class="cls-4" transform="translate(173.13 526.27) rotate(19.35)">V</text>
+    <text class="cls-4" transform="translate(214.31 539.98) rotate(12.51)">I</text>
+    <text class="cls-4" transform="translate(236.03 545.06) rotate(5.92)">E</text>
+    <text class="cls-4" transform="translate(272.67 548.17) rotate(0.24)"> </text>
+    <text class="cls-4" transform="translate(287.38 548.8) rotate(-5.98)">T</text>
+    <text class="cls-4" transform="translate(330.31 544.05) rotate(-15.87)">R</text>
+    <text class="cls-4" transform="translate(373.85 530.66) rotate(-23.35)">I</text>
+    <text class="cls-4" transform="matrix(0.86, -0.51, 0.51, 0.86, 394.82, 522.11)">V</text>
+    <text class="cls-4" transform="translate(431.96 499.11) rotate(-37.88)">I</text>
+    <text class="cls-4" transform="translate(450.26 485.53) rotate(-45.43)">A</text>
+    <text class="cls-5" transform="matrix(0.61, -0.79, 0.79, 0.61, 481.29, 452.56)"> </text>
+  </g>
+</svg>
